@@ -1,0 +1,45 @@
+#####################################
+Silverstripe Elastic Search Module
+@author Dieter Orens
+#####################################
+
+Overview
+--------------------------------------------
+Simple Silverstripe Module to interact with Elastic search.
+Uses Elastica php client http://ruflin.github.com/Elastica/
+
+Indexes: id, title, menutitle, content, created, lastedited, url
+
+Provides
+--------------------------------------------
+
+* SiteConfig with settings:
+
+- Index Name
+- Host Name (optional)
+- Port Name (optional)
+- Transport (optional)
+- Search results limit per page 
+- Index custom settings (optional)
+
+* Elastic Search tab on pages with checkbox field 'Index this page' - data being sent on after publish.
+* Task for deleting index (also accessible from SiteConfig)
+* Task for bulk enabling indexing (also accessible from SiteConfig)
+* Task for bulk updating data to index (also accessible from SiteConfig) 
+(Note this only sends/removes from index - use enable indexing task first if you want all pages added)
+* Simple Search Form available in templates as $ESSearchForm
+* Next / Prev paging through results
+
+Requirements
+--------------------------------------------
+Installed elastic search server 
+see http://www.elasticsearch.org/
+
+
+
+Installation
+--------------------------------------------
+Add module
+Run dev/build?flush=1
+Go to siteconfig 'elastic search' tab
+Set settings (index name)

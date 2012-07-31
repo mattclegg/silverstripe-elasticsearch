@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query
+END
+Filtered.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Filtered.php
+END
+Nested.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Nested.php
+END
+Ids.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Ids.php
+END
+QueryString.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/QueryString.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Array.php
+END
+Wildcard.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Wildcard.php
+END
+Field.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Field.php
+END
+Builder.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Builder.php
+END
+MatchAll.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/MatchAll.php
+END
+Range.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Range.php
+END
+FuzzyLikeThis.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/FuzzyLikeThis.php
+END
+CustomScore.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/CustomScore.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Abstract.php
+END
+HasChild.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/HasChild.php
+END
+Terms.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Terms.php
+END
+CustomFiltersScore.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/CustomFiltersScore.php
+END
+Bool.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Bool.php
+END
+MoreLikeThis.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/MoreLikeThis.php
+END
+Fuzzy.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Fuzzy.php
+END
+Term.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Term.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/Text.php
+END
+ConstantScore.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/ConstantScore.php
+END
+TopChildren.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/open/!svn/ver/397/elasticsearch/trunk/thirdparty/Elastica/Query/TopChildren.php
+END
