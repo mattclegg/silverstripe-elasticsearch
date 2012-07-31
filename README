@@ -40,6 +40,6 @@ see http://www.elasticsearch.org/
 Installation
 --------------------------------------------
 Add module
-Run dev/build?flush=1
+Run dev/build
 Go to siteconfig 'elastic search' tab
 Set settings (index name)
